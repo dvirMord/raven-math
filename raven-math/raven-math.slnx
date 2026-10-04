@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="raven-math/raven-math.vcxproj" />
+  <Project Path="raven-math/raven-math.vcxproj" Id="e340cf76-962c-41e6-b4f4-c335ed967710" />
 </Solution>
