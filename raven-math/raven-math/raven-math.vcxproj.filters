@@ -18,7 +18,7 @@
     <ClCompile Include="Matrix3x3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Vector3D .cpp">
+    <ClCompile Include="Vector3D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
