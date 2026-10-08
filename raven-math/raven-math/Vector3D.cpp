@@ -38,7 +38,7 @@ namespace RavenMaths
             throw std::runtime_error("Cannot normalize a zero vector.");
         }
 
-        return *this / len; // Uses the operator/ which handles the scalar division
+        return *this / len; 
     }
 
     Vector3D Vector3D::cross(const Vector3D& a, const Vector3D& b)
